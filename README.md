@@ -13,11 +13,12 @@ Be sure you have this in your machine!
 
 run command 
 npm install -g gulp-cli
+
 bower install
 
 
 
-install gulp tools manually 
+install gulp apps manually 
 
 	npm install --save-dev gulp-uglify
 	npm install --save-dev gulp-ruby-sass
