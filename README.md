@@ -11,3 +11,21 @@ Be sure you have this in your machine!
 * [Bower]
 * [npm / Node.js]
 
+run command 
+npm install -g gulp-cli
+bower install
+
+
+
+install gulp tools manually 
+
+	npm install --save-dev gulp-uglify
+	npm install --save-dev gulp-ruby-sass
+	npm install --save-dev gulp-livereload
+	npm install --save-dev gulp-imagemin
+	npm install --save-dev gulp-autoprefixer
+  
+  
+then you can add style inside assets/scss and include it to main.scss
+
+run gulp
