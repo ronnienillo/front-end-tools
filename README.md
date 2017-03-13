@@ -11,7 +11,8 @@ Be sure you have this in your machine!
 * [Bower]
 * [npm / Node.js]
 
-run command 
+run command
+
 npm install -g gulp-cli
 
 bower install
