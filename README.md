@@ -28,10 +28,13 @@ install gulp apps manually
 	npm install --save-dev gulp-autoprefixer
   
   
-then you can add styles inside assets/scss and include it to main.scss
+then you can start added styles inside assets/scss and include it to main.scss
+
+you can also add scripts inside assests/js 
 
 run gulp
+
 and your done!
 
 
-note: install chrome extensions livereload for gulp-livereload
+note: install chrome extensions livereload for gulp-livereload 
