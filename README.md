@@ -5,7 +5,7 @@ Web Development tools for Front-end, Bootstrap packages (sass), gulp-uglify, gul
 
 ## Installation
 
-Be sure you have this in your machine!
+Be sure you have these in your machine!
 
 * [Ruby on Rails]
 * [Bower]
